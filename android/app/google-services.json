@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "820620575208",
+    "project_id": "intelligent-course-allocation",
+    "storage_bucket": "intelligent-course-allocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820620575208:android:c993a4fb79acb70d0ca45d",
+        "android_client_info": {
+          "package_name": "com.example.ica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820620575208-e2kn2f9gp2u6p4ses46s6uv6l2e0la6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ica",
+            "certificate_hash": "ccf79d9bade228ec7c5637be559c83d00fc85db9"
+          }
+        },
+        {
+          "client_id": "820620575208-0qa4ec4elq1me5p6dg8thm6vf4f8ak8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9-ziqwf3NGSzqkO539scoifYBln0Sd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820620575208-0qa4ec4elq1me5p6dg8thm6vf4f8ak8a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820620575208-2rjbh22dnf4rngrlu96o28j8b6c7huct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ica"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820620575208:android:89de3d9331ebef9d0ca45d",
+        "android_client_info": {
+          "package_name": "com.example.intelligent_course_allocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820620575208-0qa4ec4elq1me5p6dg8thm6vf4f8ak8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9-ziqwf3NGSzqkO539scoifYBln0Sd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820620575208-0qa4ec4elq1me5p6dg8thm6vf4f8ak8a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820620575208-2rjbh22dnf4rngrlu96o28j8b6c7huct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

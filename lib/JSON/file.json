@@ -1,0 +1,28 @@
+{
+ 
+  "postgraduate_course_preference_scores":{
+    "CS201":"22",
+    "CS202":"17",
+    "CS203":"26",
+    "CS204":"16"
+},
+  "postgraduate_courses_preferred":{
+    "first":"CS201",
+    "second":"CS202",
+    "third":"CS203",
+    "fourth":"CS204"
+},
+  "undergraduate_course_preference_scores":{
+    "CS201":"22",
+    "CS202":"17",
+    "CS203":"26",
+    "CS204":"16"
+},
+  "undergraduate_courses_preferred":{
+    "first":"CS101",
+    "second":"CS102",
+    "third":"CS103",
+    "fourth":"CS104"
+}
+ 
+}
